@@ -55,10 +55,8 @@ Le decisioni del Gruppo Bianco vengono assunte attraverso il seguente iter:
  - Dopo la discussione in assemblea le eventuali proposte (formali) scaturite dal confronto vengono pubblicate sul Meetup.
  - Se sul Meetup:
    - non si ricevono ulteriori proposte:
-
-            - se si ha una sola proposta: viene adottata (unanimità)
-            - se si hanno più proposte alternative: vengono votate online (se due proposte, con qualunque metodo altrimenti con Shultze o simili)
-
+     - se si ha una sola proposta: viene adottata (unanimità)
+     - se si hanno più proposte alternative: vengono votate online (se due proposte, con qualunque metodo altrimenti con Shultze o simili)
    - si ricevono ulteriori proposte (il buon senso eviterà ostruzionismi), si ricadrà nel caso ii. salvo sia percepito il bisogno di discutere ulteriormente in merito.
 
 
