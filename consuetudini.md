@@ -10,14 +10,16 @@ Tutte le assemblee sono pubbliche e sono autoconvocate il 5 e il 20 di ogni mese
 
 L’ordine del giorno relativo alle assemblee canoniche viene deciso tramite il seguente iter:
 
-a. Pubblicazione sul Meetup di una discussione apposita per raccogliere le proposte relative ai punti da inserire nell’ordine del giorno. La discussione resta aperta fino a 2gg prima dell’assemblea.
-b. Creazione di un sondaggio sul Meetup per votare le proposte pervenute e definire un ordine di discussione. Il sondaggio rimane aperto fino a 2h precedenti l’inizio dell’assemblea.
-c. I punti che non verranno trattati in assemblea per mancanza di tempo o per assenza del proponente non saranno automaticamente discussi nell’assemblea successiva ma bisognerà ripetere l’iter descritto nei capoversi a e b.
+1. Pubblicazione sul Meetup di una discussione apposita per raccogliere le proposte relative ai punti da inserire nell’ordine del giorno. La discussione resta aperta fino a 2gg prima dell’assemblea.
+2. Creazione di un sondaggio sul Meetup per votare le proposte pervenute e definire un ordine di discussione. Il sondaggio rimane aperto fino a 2h precedenti l’inizio dell’assemblea.
+3. I punti che non verranno trattati in assemblea per mancanza di tempo o per assenza del proponente non saranno automaticamente discussi nell’assemblea successiva ma bisognerà ripetere l’iter descritto nei capoversi 1 e 2.
 
 ### Moderazione
 
 La moderazione della riunione è affidata ad un attivista (vedi in seguito per la sua definizione) favorendo la rotazione tra i vari attivisti disponibili ad assolvere tale ruolo.
+
 Il moderatore ha il compito di garantire un corretto e proficuo svolgimento dell’assemblea.
+
 Il moderatore gestisce gli interventi, registra l’ordine degli interventi e concede la parola secondo l’ordine di registrazione, fa in modo che chi sta parlando possa completare senza essere interrotto, controlla il rispetto dei tempi degli interventi e mantiene il silenzio e l’attenzione dell’Assemblea. Può essere coadiuvato da uno o più co-moderatori da lui nominati sul momento.
 
 ### Verbale
@@ -32,9 +34,8 @@ Il luogo d'incontro virtuale, che permette una maggiore partecipazione dei citta
 
 La parte di discussione e confronto necessaria ad acquisire una buona consapevolezza dell’argomento si svolgerà in un apposito thread sul meetup qualora si ravvisasse l'esistenza dei seguenti e imprescindibili presupposti:
 
- - la necessità di esprimersi su una decisione che riveste i caratteri dell'eccezionalità e dell'urgenza;
- - l'impossibilità di organizzare un'assemblea secondo i tempi e modi sopra ratificati.
-
+- la necessità di esprimersi su una decisione che riveste i caratteri dell'eccezionalità e dell'urgenza;
+- l'impossibilità di organizzare un'assemblea secondo i tempi e modi sopra ratificati.
 
 Conseguentemente, la decisione verrà presa dagli attivisti tramite voto online successivamente verbalizzato, sempre sul Meetup. Il voto online si svolgerà secondo metodi e tempi definiti per l’occasione che garantiscano la massima partecipazione degli attivisti.
 La necessità che una decisione sia stata presa d'urgenza comporta l'obbligo di discutere nella successiva assemblea sull'opportunità e sulle metodologie utilizzate.
@@ -53,12 +54,12 @@ Le decisioni del Gruppo Bianco vengono assunte attraverso il seguente iter:
  - Discussione della Questione/Proposta in assemblea
  - Dopo la discussione in assemblea le eventuali proposte (formali) scaturite dal confronto vengono pubblicate sul Meetup.
  - Se sul Meetup:
-   a. non si ricevono ulteriori proposte:
+   - non si ricevono ulteriori proposte:
 
-            i. se si ha una sola proposta: viene adottata (unanimità)
-            ii. se si hanno più proposte alternative: vengono votate online (se due proposte, con qualunque metodo altrimenti con Shultze o simili)
+            - se si ha una sola proposta: viene adottata (unanimità)
+            - se si hanno più proposte alternative: vengono votate online (se due proposte, con qualunque metodo altrimenti con Shultze o simili)
 
-   b. si ricevono ulteriori proposte (il buon senso eviterà ostruzionismi), si ricadrà nel caso ii. salvo sia percepito il bisogno di discutere ulteriormente in merito.
+   - si ricevono ulteriori proposte (il buon senso eviterà ostruzionismi), si ricadrà nel caso ii. salvo sia percepito il bisogno di discutere ulteriormente in merito.
 
 
 Nel caso di posizioni discordanti in fase di discussione, la pratica preferita dal gruppo resta comunque quella di mediare i vari punti di vista per ottenere una sola proposta. In questo modo, la proposta potrà essere adottata senza ricorso a votazioni online (e, quindi, più condivisa).
